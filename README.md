@@ -1,5 +1,6 @@
 # Prevent-Food-Waste-Website
 How to Prevent Food Waste – Informational Simple Responsive Website built with HTML &amp; CSS
+
 This project is a multi-page informational website focused on raising awareness about how to prevent food waste. Created as part of the BATECH 189 coursework, the website educates users on the impact of food waste and provides practical solutions individuals can apply in their daily lives.
 The website includes:
 Home Page – Introduces the issue of food waste and its environmental and social impact
